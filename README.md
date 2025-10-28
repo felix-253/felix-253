@@ -53,13 +53,14 @@ Stay tuned, it’s coming very soon with live demos, source code, and write-ups 
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🎯 Currently Learning
+## 🎯 Experience
 
-- Building RESTful APIs with **NestJS** and **Spring Boot**
-- Exploring the basics of **microservices architecture**
-- Working with real-time apps using **WebSocket**
-- Collaborating with **Git**,**GitLab** and **GitHub**
-- Learning clean, scalable system design principles
+- Building RESTful APIs with NestJS
+- Developing user interfaces with React.js and Next.js using Ant Design
+- Working on real-time applications using WebSocket
+- Exploring the fundamentals of microservices architecture
+- Collaborating with Git and experienced in Git Flow
+- Knowledgeable about clean and scalable system design principles
 
 ## 🎉 A Bit About Me
 
